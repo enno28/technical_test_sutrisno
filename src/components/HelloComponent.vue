@@ -11,7 +11,7 @@
         }
     }
 </script>
-<style lang="stylus" scoped>
-    h1
-        color red
-</style>
+<!--<style lang="stylus" scoped>-->
+<!--    h1-->
+<!--        color green-->
+<!--</style>-->
