@@ -8,8 +8,10 @@
                 <div class="step-content">
                     <div class="step-label">Delivery details</div>
                     <form>
-                        <input type="text" placeholder="Name"/>
-                        <input type="text" placeholder="Phone Number"/>
+                        <input type="text" class="input-large" placeholder="Name"/>
+                        <input type="text" class="input-small" placeholder="Dropshipper name"/>
+                        <input type="text" class="input-large" placeholder="Phone Number"/>
+                        <input type="text" class="input-small" placeholder="Dropshipper phone number"/>
                         <textarea placeholder="Delivery Address"/>
                     </form>
                 </div>
