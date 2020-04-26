@@ -11,7 +11,9 @@
   "author": "Sutrisno",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.19.2",
     "vue": "^2.6.11",
+    "vue-axios": "^2.1.5",
     "vue-router": "^3.1.6"
   },
   "devDependencies": {
